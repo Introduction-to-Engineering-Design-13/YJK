@@ -38,7 +38,7 @@
         ```
         ++ 다른 방법  
          파일 탐색기에서 자신이 연결할 프로젝트 폴더로 들어가서 주소창에 명령프롬프트(cmd) 실행.
-         ![image](https://raw.githubusercontent.com/2025-Tutoring-KW/image/refs/heads/main/git_1.png)
+
 
 
     2. Git 레포지토리로 초기화합니다. (처음 연결할 때만 씀.)
